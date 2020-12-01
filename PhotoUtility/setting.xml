@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setting name="app setting">
+	<type name="jpg">
+		<extension>jpg</extension>
+		<path>B:\shared\photo_jpg\</path>
+	</type>
+	<type name="raw">
+		<extension>raw</extension>
+		<path>F:\photo_raw\</path>
+	</type>
+	<type name="mov">
+		<extension>mov</extension>
+		<path>F:\dslr_movie\</path>
+	</type>
+</setting>
